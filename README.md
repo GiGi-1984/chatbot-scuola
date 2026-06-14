@@ -27,4 +27,4 @@ Assistente unico di nome **GiGi**, personalità sobria ma cortese (70% neutro/fu
 ## Pubblicazione (GitHub Pages)
 
 La landing è pubblicata tramite GitHub Pages dal branch `main`, cartella root.
-URL pubblico: https://gigi-1984.github.io/chatbot-scuola/
+URL pubblico: https://gigi1564.github.io/chatbot-scuola/
