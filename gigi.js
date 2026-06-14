@@ -26,6 +26,10 @@
 
 // ===== Demo chat di GiGi (risposte dimostrative; Fase 2: da knowledge base) =====
 const RISPOSTE = [
+  {k:["sportello","sportelli"], a:"Gli sportelli didattici di Matematica e Fisica offrono chiarimenti individuali con i docenti. Trovi calendario e prenotazione qui: [link]. Indica la materia e il docente."},
+  {k:["recupero","debito","insufficienz","corso di recupero"], a:"I corsi di recupero di Matematica e Fisica (per insufficienze e debiti formativi) sono pubblicati qui: [link], con calendario e modalità di iscrizione."},
+  {k:["potenziamento"], a:"I corsi di potenziamento approfondiscono Matematica e Fisica oltre il programma (olimpiadi, eccellenze). Programma e iscrizione: [link]."},
+  {k:["corso stem","corsi stem"], a:"I corsi STEM di Matematica e Fisica (laboratori, progetti e gare) sono descritti qui: [link]. Per una singola attività ti indico la pagina o il docente referente."},
   {k:["iscriv","iscrizion","iscriver"], a:"Le iscrizioni si effettuano online sul portale del Ministero nei periodi stabiliti ogni anno. Sul sito trovi la guida passo-passo e il codice meccanografico: [link]. Per assistenza puoi scrivere alla segreteria a [email]. Vuoi i requisiti o le scadenze?"},
   {k:["indirizz","studio","corso","liceo","tecnico"], a:"Il nostro istituto propone diversi indirizzi di studio: [elenco indirizzi]. Per ciascuno trovi quadro orario e sbocchi nella sezione Offerta Formativa: [link]. Se mi dici cosa ti interessa, ti indico l'indirizzo più adatto."},
   {k:["assenz","giustific"], a:"Le assenze si giustificano [tramite registro elettronico / libretto], secondo il regolamento d'istituto: [link]. Se hai problemi con le credenziali, scrivi alla segreteria a [email]. Ti serve la procedura passo-passo?"},
